@@ -1,0 +1,15 @@
+/Users/helenamiura/Projects/Net/25-building/Building/bin/Debug/net8.0/Building
+/Users/helenamiura/Projects/Net/25-building/Building/bin/Debug/net8.0/Building.deps.json
+/Users/helenamiura/Projects/Net/25-building/Building/bin/Debug/net8.0/Building.runtimeconfig.json
+/Users/helenamiura/Projects/Net/25-building/Building/bin/Debug/net8.0/Building.dll
+/Users/helenamiura/Projects/Net/25-building/Building/bin/Debug/net8.0/Building.pdb
+/Users/helenamiura/Projects/Net/25-building/Building/obj/Debug/net8.0/Building.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenamiura/Projects/Net/25-building/Building/obj/Debug/net8.0/Building.AssemblyInfoInputs.cache
+/Users/helenamiura/Projects/Net/25-building/Building/obj/Debug/net8.0/Building.AssemblyInfo.cs
+/Users/helenamiura/Projects/Net/25-building/Building/obj/Debug/net8.0/Building.csproj.CoreCompileInputs.cache
+/Users/helenamiura/Projects/Net/25-building/Building/obj/Debug/net8.0/Building.sourcelink.json
+/Users/helenamiura/Projects/Net/25-building/Building/obj/Debug/net8.0/Building.dll
+/Users/helenamiura/Projects/Net/25-building/Building/obj/Debug/net8.0/refint/Building.dll
+/Users/helenamiura/Projects/Net/25-building/Building/obj/Debug/net8.0/Building.pdb
+/Users/helenamiura/Projects/Net/25-building/Building/obj/Debug/net8.0/Building.genruntimeconfig.cache
+/Users/helenamiura/Projects/Net/25-building/Building/obj/Debug/net8.0/ref/Building.dll
